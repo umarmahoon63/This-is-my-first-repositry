@@ -1,1 +1,3 @@
-# This-is-my-first-repositry
+# This is my first repositry
+  Random Text for tetinng 
+  Author - Umar Mahoon
